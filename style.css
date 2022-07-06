@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+body{
+    background-color:hsl(0, 0%, 95%);
+}
 .container{
     display: flex;
     justify-content: center;
@@ -49,6 +52,7 @@ p{
 button{
     padding: 9px;
     border: 2px solid white;
+    background-color:hsl(0, 0%, 95%);
     border-radius: 17px;
     width: 53%;
     position: relative;
